@@ -4,7 +4,7 @@ A simple console-based calculator that performs basic arithmetic operations.
 
 ## Features 
 - Addition (`+`) 
-- Subtraction (`-`) 
+- Subtraction (`-`)  
 - Multiplication (`*`)
 - Division (`/`)
 - Supports integer and floating-point numbers
