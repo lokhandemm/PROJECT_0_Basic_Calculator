@@ -2,7 +2,7 @@
    
 A simple console-based calculator that performs basic arithmetic operations. 
 
-## Features
+## Features 
 - Addition (`+`) 
 - Subtraction (`-`) 
 - Multiplication (`*`)
