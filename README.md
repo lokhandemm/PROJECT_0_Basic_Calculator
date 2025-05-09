@@ -1,4 +1,4 @@
-# Basic Calculator  
+# Basic Calculator   
                   
 A simple console-based calculator that performs basic arithmetic operations.  
  
