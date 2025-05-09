@@ -1,6 +1,6 @@
 # Basic Calculator
       
-A simple console-based calculator that performs basic arithmetic operations. 
+A simple console-based calculator that performs basic arithmetic operations.  
  
 ## Features 
 - Addition (`+`) 
